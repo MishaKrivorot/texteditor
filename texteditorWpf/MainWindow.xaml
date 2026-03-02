@@ -1,0 +1,34 @@
+﻿<Window x:Class="texteditorWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Без назви" Height="450" Width="800"
+        Closing="Window_Closing">
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Файл">
+                <MenuItem Header="_Новий"
+                          Click="New_Click"
+                          InputGestureText="Ctrl+N"/>
+                <MenuItem Header="_Відкрити"
+                          Click="Open_Click"
+                          InputGestureText="Ctrl+O"/>
+                <MenuItem Header="_Зберегти"
+                          Click="Save_Click"
+                          InputGestureText="Ctrl+S"/>
+                <MenuItem Header="Зберегти _як"
+                          Click="SaveAs_Click"
+                          InputGestureText="Ctrl+Shift+S"/>
+            </MenuItem>
+            <MenuItem Header="_Вихід" Click="Exit_Click"></MenuItem>
+        </Menu>
+
+        <TextBox x:Name="textBox"
+                 AcceptsReturn="True"
+                 AcceptsTab="True"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 TextWrapping="Wrap"
+                 TextChanged="TextBox_TextChanged"/>
+    </DockPanel>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf.csproj.AssemblyReference.cache
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\MainWindow.baml
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\MainWindow.g.cs
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\App.g.cs
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf_MarkupCompile.cache
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf.g.resources
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf.Properties.Resources.resources
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf.csproj.GenerateResource.cache
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf.csproj.CoreCompileInputs.cache
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\bin\Debug\texteditorWpf.exe.config
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\bin\Debug\texteditorWpf.exe
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\bin\Debug\texteditorWpf.pdb
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf.exe
+C:\Users\88kva\source\repos\texteditorWpf\texteditorWpf\obj\Debug\texteditorWpf.pdb
